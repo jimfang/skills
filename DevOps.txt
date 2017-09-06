@@ -1,0 +1,10 @@
+22-05-2017
+Talk with Richard Hu
+
+AWS; Full Stack; DevOps
+CI/CD continuous release...?
+Jerkins, Docks
+Reactor JS, Node.JS
+javascript, python, c/c++/c#
+topo architecture AWS
+
